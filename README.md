@@ -1,8 +1,8 @@
 # stellar-hr-diagram-from-scratch
-Machine learning pipeline originally created in Jupyter Notebook to isolate the Pleiades star cluster from 113,000 Gaia telescope stars. I used Gaussian mixture models to isolate the Pleides cluster (seen as 1 in the gaussian mixture plot) and PCA to extract the Hertzsprung-Russell diagram.
+A machine learning pipeline originally created in Jupyter Notebook to isolate the Pleiades star cluster from 113,000 Gaia telescope stars. I used Gaussian mixture models to isolate the Pleides cluster (seen as 1 in the gaussian mixture plot) and PCA to extract the Hertzsprung-Russell diagram.
 
 Assignment and report were submitted as part of PHYS20035: Computational Physics and Data Science at the University of Bristol. Overall grade in the module was 73%
-
+Unfortunately, the data is not publically available nor available to share per University rules.
 
 <img width="907" height="677" alt="HR- Diagram, Gaia Script" src="https://github.com/user-attachments/assets/3f192919-a3db-4499-98ee-b5942c9b8147" />
 <img width="877" height="667" alt="image" src="https://github.com/user-attachments/assets/12cea52e-a3e4-47aa-abba-6bb3788bbe5c" />
